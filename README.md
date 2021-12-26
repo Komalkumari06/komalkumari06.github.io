@@ -1,16 +1,14 @@
-### Hi there 👋
+ 1 <html>
+ 2 <body>
+ 3
+ 4 <h1>hello I am komal here!!<h1/>
+ 5 <p style"color;red;font-style:bold/>
+ 6 <h3>how are you doing?</h3>
+ 7
+ 8 <del> style="color:purple;"hi this is me/del>
+ 9 
+10
+11 <body>
+12 <html>
 
-<!--
-**Komalkumari06/komalkumari06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
